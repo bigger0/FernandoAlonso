@@ -1,13 +1,17 @@
 body{
     background-color:#00594f;
-    color:ghostwhite
+    color:ghostwhite;
+    text-align:center;
     }
     h1{
-        color:#cedc00
+        color:#cedc00;
+        font-style :italic;
     }
     h2{
-        color:#00352f
+        color:#00352f;
+        font-style:italic;
     }
     h3{
-        color:#00352f
+        color:#00352f;
+        font-style:italic;
      }
