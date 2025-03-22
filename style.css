@@ -2,6 +2,7 @@ body{
     background-color:#00594f;
     color:ghostwhite;
     text-align:center;
+    border-image: round;
     }
     h1{
         color:#cedc00;
