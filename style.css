@@ -8,6 +8,9 @@ body{
         color:#cedc00;
         font-style :italic;
     }
+        .lolkk {
+            width: 30%
+    }
     h2{
         color:#00352f;
         font-style:italic;
@@ -18,8 +21,4 @@ body{
          }
      ul{
         text-align:left;
-     }
-
-    .imagem{
-        width:30%;
      }
