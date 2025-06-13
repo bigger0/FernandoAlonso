@@ -6,6 +6,6 @@ body{
     border-image: round;
     }
 .foto {
-  width: auto;
-  height: auto;
+  width: 400;
+  height: 400;
 }
