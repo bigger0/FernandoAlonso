@@ -19,3 +19,6 @@ ul {
   margin-left: 20px;
   padding-left: 0;
 }
+li {
+  text-align: left;
+}
