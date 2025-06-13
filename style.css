@@ -5,24 +5,15 @@ body{
     text-align:center;
     border-image: round;
     }
-    h1{
-        color:#cedc00;
-        font-style:italic;
-    }
 
-    h2{
-        color:#00352f;
-        font-style:italic;
-    }
-    h3{
-        color:#00352f;
-        font-style:italic;
-         }
     href{
         color:ghostwhite;
     }
 .goiaba {
     font-style:bold;
 }
-    
-   
+
+.panela {
+    font-style:italic;
+    color:#DADDD8;
+}
