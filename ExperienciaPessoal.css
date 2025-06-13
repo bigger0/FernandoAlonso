@@ -5,3 +5,7 @@ body{
     text-align:center;
     border-image: round;
     }
+.foto {
+  width: auto;
+  height: auto;
+}
