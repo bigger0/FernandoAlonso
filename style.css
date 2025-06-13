@@ -22,3 +22,6 @@ ul {
 li {
   text-align: left;
 }
+a {
+  color: ghostwhite; /* Your hex color */
+}
