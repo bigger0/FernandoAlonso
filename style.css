@@ -14,14 +14,13 @@ body{
     font-style:italic;
     color: #ECEBE4;
 }
-ul {
-  display: block;
-  margin-left: 20px;
-  padding-left: 0;
-}
 li {
   text-align: left;
 }
 a {
   color: ghostwhite;
+}
+.foto {
+  width: auto;
+  height: auto;
 }
